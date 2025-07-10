@@ -5,7 +5,7 @@
 
 .background{
     background-image: url("./Assets/Hero-bg.png");
-   height: 698px;
+   height: 898px;
    width: 100%;
 
 }
@@ -39,7 +39,7 @@
 .text2{
     display: list-item;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
       justify-content: center;
     text-align: center;
     color: #252432;
@@ -47,7 +47,7 @@
     margin: 209px 267.5px 252px 267.5px;
     font-size: 40px;
     list-style-type: none;
-    
+    s
 
 }
 
