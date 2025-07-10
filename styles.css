@@ -90,4 +90,35 @@
     border: none;
 }
 
+/* Action Section End */
+
+
+.background2{
+    background-color: #E5E7FF;
+     height: 500px;
+   width: 1240;
+   margin: 0px 159px 0px 141px ;
+   border-radius: 30px;
+   justify-items: center;
+   justify-content: center;
+   align-items: center;
+   align-content: flex-start;
+  
+}
+
+
+.text3{
+    font-size: 50px;
+    color: #4E47FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.text-parents{
+    display: flex;
+    
+    gap: 350px;
+}
+
+/* Productive Users Section End */
 
