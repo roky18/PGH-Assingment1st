@@ -95,10 +95,10 @@
 
 .background2{
     background-color: #E5E7FF;
-     height: 500px;
-   width: 1240;
-   margin: 0px 159px 0px 141px ;
-   border-radius: 30px;
+    height: 500px;
+   width: 100%;
+   margin: 0px 90px 0px 70px ;
+    border-radius: 30px;
    justify-items: center;
    justify-content: center;
    align-items: center;
@@ -114,10 +114,12 @@
     
 }
 
-.text-parents{
-    display: flex;
-    
-    gap: 350px;
+
+.text-parents {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 350px;
 }
 
 /* Productive Users Section End */
