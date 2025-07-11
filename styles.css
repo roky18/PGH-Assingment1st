@@ -3,6 +3,9 @@
     padding: 0px;
 }
 
+
+
+
 .background{
     background-image: url("./Assets/Hero-bg.png");
    height: 898px;
@@ -124,3 +127,78 @@
 
 /* Productive Users Section End */
 
+.inputprants{
+display: flex;
+justify-content: space-between;
+    align-items: center;
+    margin: 116px 25px 116px 40px;
+
+}
+
+.leftside3{
+    font-size: 100px
+}
+
+.rightside3{
+    width: 550px;
+    height: 250px;
+    padding: 30px;
+    align-content: center;
+    border-radius: 5px;
+    font-size: large;
+    
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+
+
+
+
+.b4{
+     background-color: #4E47FF;
+    color: #E9E8FF;
+    padding: 12px 26px;
+    border: 0px 150px 0px 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border: none;
+     width: 410px;     
+  padding: 0.8em;
+    
+}
+
+
+/* Touch Section End */
+
+.footer{
+       display: flex;
+justify-content: center;
+    align-items: center;
+}
+
+.text4 image{
+  
+  
+}
+
+.footer2{
+    color: #A3A2A2;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.logo{
+    height: 40px;
+    width: 80px;
+    margin: 2px solid red;
+}
+
+a{
+    text-decoration: none;
+}
