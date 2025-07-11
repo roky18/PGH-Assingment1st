@@ -179,6 +179,8 @@ ul{
        display: flex;
 justify-content: center;
     align-items: center;
+    justify-items: center;
+   align-content: flex-start;
 }
 
 .text4 image{
@@ -193,11 +195,7 @@ justify-content: center;
     justify-content: center;
 }
 
-.logo{
-    height: 40px;
-    width: 80px;
-    margin: 2px solid red;
-}
+
 
 a{
     text-decoration: none;
