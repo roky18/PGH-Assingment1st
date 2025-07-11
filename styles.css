@@ -137,6 +137,10 @@
 }
 
 .Action{
+    margin: 80px 130px;
+    border: 30px 15px;
+    border-radius: 20px;
+
     justify-items: center;
      display: list-item;
     justify-content: space-between;
