@@ -109,6 +109,32 @@
   
 }
 
+.card-selection{
+    padding: 230px 150px;
+  justify-items: center;
+  align-items: center;
+  
+}
+
+.card-container{
+    display: flex;
+    gap: 80px;
+}
+
+.card{
+    width: 250px;
+    border: 2px solid salmon;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgb(202, 176, 233);
+}
+.card h3{
+    font-size: 1.30em;
+    font-weight: 700;
+}
+.card image{
+    width: 100%;
+}
 
 .text3{
     font-size: 50px;
@@ -145,7 +171,7 @@ justify-content: space-between;
     padding: 30px;
     align-content: center;
     border-radius: 5px;
-    font-size: large;
+    font-size: 1.25em;
     
 }
 
@@ -167,7 +193,7 @@ ul{
     font-weight: bold;
     font-family: sans-serif;
     border: none;
-     width: 410px;     
+     width: 437px;     
   padding: 0.8em;
     
 }
